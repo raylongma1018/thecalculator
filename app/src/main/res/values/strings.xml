@@ -1,0 +1,46 @@
+<resources>
+    <string name="switchside">Switch</string>
+    <string name="delete">--></string>
+    <string name="reset">C</string>
+    <string name="plusminus">+/-</string>
+    <string name="memreset">MC</string>
+    <string name="addmem">M+</string>
+    <string name="minusmem">M-</string>
+    <string name="recallmem">MR</string>
+    <string name="b9">9</string>
+    <string name="b8">8</string>
+    <string name="b7">7</string>
+    <string name="b6">6</string>
+    <string name="b5">5</string>
+    <string name="b4">4</string>
+    <string name="b3">3</string>
+    <string name="b2">2</string>
+    <string name="b1">1</string>
+    <string name="b0">0</string>
+    <string name="badd">+</string>
+    <string name="bminus">-</string>
+    <string name="bequal">=</string>
+    <string name="bmultiply">*</string>
+    <string name="bdivide">/</string>
+    <string name="bdot">.</string>
+    <string name="bsin">sin</string>
+    <string name="bcos">cos</string>
+    <string name="btan">tan</string>
+    <string name="bimaginary">i</string>
+    <string name="bln">ln</string>
+    <string name="blog">log</string>
+    <string name="bpi">π</string>
+    <string name="bexponent">e</string>
+    <string name="bpercent">%</string>
+    <string name="bfact">!</string>
+    <string name="bsroot">√</string>
+    <string name="bpower">^</string>
+    <string name="bleftparen">(</string>
+    <string name="brightparen">)</string>
+    <string name="title_activity_calculator2">calculator2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
